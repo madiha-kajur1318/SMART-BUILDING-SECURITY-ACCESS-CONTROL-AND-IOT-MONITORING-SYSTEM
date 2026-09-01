@@ -1,0 +1,2 @@
+# SMART-BUILDING-SECURITY-ACCESS-CONTROL-AND-IOT-MONITORING-SYSTEM
+Embedded C smart-building access and security prototype built around the LPC2129 ARM7. It integrates PIR motion detection, RFID authentication, keypad password verification, RTC-based event timing, EEPROM storage, LCD/UART status reporting, I2C communication, and servo-controlled door operation for a modular access-control solution.
