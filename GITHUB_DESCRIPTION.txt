@@ -1,0 +1,4 @@
+Embedded C smart-building access and security prototype built around the LPC2129 ARM7. It integrates PIR motion detection, RFID authentication, keypad password verification, RTC-based event timing, EEPROM storage, LCD/UART status reporting, I2C communication, and servo-controlled door operation for a modular access-control solution.
+
+Suggested repository topics:
+embedded-c; lpc2129; arm7; embedded-systems; access-control; rfid; keypad; pir-sensor; rtc; eeprom; i2c; uart; servo; smart-building

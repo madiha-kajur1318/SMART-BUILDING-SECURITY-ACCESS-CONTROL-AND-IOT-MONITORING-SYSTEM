@@ -1,0 +1,26 @@
+# IDE / build output
+*.hex
+*.bin
+*.elf
+*.map
+*.axf
+*.o
+*.obj
+*.lst
+*.d
+*.bak
+
+# Keil / embedded build artifacts
+Listings/
+Objects/
+Debug/
+Release/
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
